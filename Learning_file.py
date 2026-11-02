@@ -1,1 +1,3 @@
-print(type(None))
+
+x = 5
+
